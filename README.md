@@ -2,6 +2,7 @@
 SendVar plugin for genie4
 
 Copy sendvar.dll to your plugins folder
+
 Copy Interfaces.dll to the base of your genie4 folder
 
 Use with /sendvar Charactername varname foo
