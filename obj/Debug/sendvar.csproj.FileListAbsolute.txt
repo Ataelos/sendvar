@@ -1,0 +1,8 @@
+C:\Users\Penumbra\Source\Repos\sendvar\bin\Debug\sendvar.dll
+C:\Users\Penumbra\Source\Repos\sendvar\bin\Debug\sendvar.pdb
+C:\Users\Penumbra\Source\Repos\sendvar\obj\Debug\sendvar.csproj.AssemblyReference.cache
+C:\Users\Penumbra\Source\Repos\sendvar\obj\Debug\sendvar.csproj.CoreCompileInputs.cache
+C:\Users\Penumbra\Source\Repos\sendvar\obj\Debug\sendvar.dll
+C:\Users\Penumbra\Source\Repos\sendvar\obj\Debug\sendvar.pdb
+C:\Users\Penumbra\Source\Repos\sendvar\bin\Debug\Interfaces.dll
+C:\Users\Penumbra\Source\Repos\sendvar\obj\Debug\sendvar.csproj.CopyComplete

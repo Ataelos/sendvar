@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sendvar", "sendvar.csproj", "{66E29577-CA59-4D4F-BFC0-9C5531EC76E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66E29577-CA59-4D4F-BFC0-9C5531EC76E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E29577-CA59-4D4F-BFC0-9C5531EC76E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E29577-CA59-4D4F-BFC0-9C5531EC76E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E29577-CA59-4D4F-BFC0-9C5531EC76E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2512AB3-18F5-40E7-B361-50306898C104}
+	EndGlobalSection
+EndGlobal
